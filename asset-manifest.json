@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/edyoda-stories/static/css/main.cec4eb1b.chunk.css",
+    "main.js": "/edyoda-stories/static/js/main.c5f925be.chunk.js",
+    "main.js.map": "/edyoda-stories/static/js/main.c5f925be.chunk.js.map",
+    "runtime-main.js": "/edyoda-stories/static/js/runtime-main.8814269b.js",
+    "runtime-main.js.map": "/edyoda-stories/static/js/runtime-main.8814269b.js.map",
+    "static/js/2.aa1f6726.chunk.js": "/edyoda-stories/static/js/2.aa1f6726.chunk.js",
+    "static/js/2.aa1f6726.chunk.js.map": "/edyoda-stories/static/js/2.aa1f6726.chunk.js.map",
+    "static/js/3.cc203883.chunk.js": "/edyoda-stories/static/js/3.cc203883.chunk.js",
+    "static/js/3.cc203883.chunk.js.map": "/edyoda-stories/static/js/3.cc203883.chunk.js.map",
+    "index.html": "/edyoda-stories/index.html",
+    "static/css/main.cec4eb1b.chunk.css.map": "/edyoda-stories/static/css/main.cec4eb1b.chunk.css.map",
+    "static/js/2.aa1f6726.chunk.js.LICENSE.txt": "/edyoda-stories/static/js/2.aa1f6726.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8814269b.js",
+    "static/js/2.aa1f6726.chunk.js",
+    "static/css/main.cec4eb1b.chunk.css",
+    "static/js/main.c5f925be.chunk.js"
+  ]
+}
